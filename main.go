@@ -11,7 +11,7 @@ import (
 const (
 	width    = 500
 	height   = 500
-	fontPath = "../Library/Fonts/Atomic-Love.ttf"
+	fontPath = "../Library/Fonts/Arial.ttf"
 )
 
 // Define some parameters for the animation
